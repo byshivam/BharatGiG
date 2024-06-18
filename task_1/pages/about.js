@@ -52,7 +52,7 @@ export default function About() {
         <div className="absolute right-8 top-24 text-white bg-gradient-to-r shadow-lg from-black via-midDark to-dark p-4 w-80 rounded-xl">
             <h1 className="text-2xl"> About Me </h1>
             <p className="text-sm mt-4">
-            Hello, I'm Shivam, an introvert who enjoys exploring various interests. I love playing the piano, programming, and diving into bug hunting. I started my YouTube journey back in 2015, but faced a setback when I lost my main channel in 2020. However, I didn't give up and returned to YouTube with a new channel called BY.SHIVAM Rebooted.
+            Hello, I am Shivam, an introvert who enjoys exploring various interests. I love playing the piano, programming, and diving into bug hunting. I started my YouTube journey back in 2015, but faced a setback when I lost my main channel in 2020. However, I didn&apos;t give up and returned to YouTube with a new channel called BY.SHIVAM Rebooted.
 
 I completed a 1-year Cyber Security diploma from Craw Cyber Security, which was an exciting experience. During this time, I acquired numerous skills, achieved milestones, and honed my abilities. Prior to that, I spent 1-2 years pursuing a Diploma in Electronics Engineering, but had to leave it for personal reasons. Currently, I am pursuing my graduation from Ignou.
             </p>
