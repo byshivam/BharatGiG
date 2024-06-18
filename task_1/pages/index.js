@@ -14,7 +14,7 @@ export default function Home() {
                     </p>
                 </div>
                 <div className="flex justify-center lg:justify-end w-full lg:w-auto  lg:mt-0 lg:w-1/2">
-                    <Image src='/avatar.png' width={300} height={420} className="shadow rounded-md grayscale" />
+                    <Image src='/avatar.png' width={300} height={420} className="shadow rounded-md grayscale" alt='SHIVAM KUMAR' />
                 </div>
             </div>
             <div className="hidden lg:block">
