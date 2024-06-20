@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(buttons).forEach((button) =>{
         button.addEventListener('click',(e) =>{
             if (e.target.innerHTML === '='){
-                string = eval(parseFloat(string))
+                string = eval(string)
                 document.querySelector('input').value = string
             } 
 
